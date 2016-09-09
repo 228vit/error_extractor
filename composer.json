@@ -4,7 +4,7 @@
   "version" : "0.0.1",
   "type" : "library",
   "homepage": "https://github.com/228vit/error_extractor.git",
-  "license" : "MIT",
+  "license" : "Unlicense",
   "keywords" : ["extensions", "symfony", "errors"],
   "authors" : [{
     "name" : "Vit",
@@ -13,10 +13,5 @@
   "require" : {
     "php": ">=5.4",
     "symfony/symfony": ">=2.7.0"
-  },
-  "extra" : {
-    "branch-alias" : {
-      "dev-master" : "master"
-    }
   }
 }
