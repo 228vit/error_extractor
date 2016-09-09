@@ -1,0 +1,22 @@
+{
+  "name" : "228vit/error_extractor",
+  "description" : "Return Validation or Form errors as array",
+  "version" : "0.0.1",
+  "type" : "library",
+  "homepage": "https://github.com/228vit/error_extractor.git",
+  "license" : "MIT",
+  "keywords" : ["extensions", "symfony", "errors"],
+  "authors" : [{
+    "name" : "Vit",
+    "email" : "228vit@gmail.com"
+  }],
+  "require" : {
+    "php": ">=5.4",
+    "symfony/symfony": ">=2.7.0"
+  },
+  "extra" : {
+    "branch-alias" : {
+      "dev-master" : "master"
+    }
+  }
+}
