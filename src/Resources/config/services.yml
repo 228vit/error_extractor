@@ -1,0 +1,6 @@
+services:
+  error.extractor.validation:
+    class: ErrorExtractor\Service\ValidationErrorExtractor
+
+  error.extractor.form:
+    class: ErrorExtractor\Service\FormErrorExtractor
