@@ -10,6 +10,9 @@
     "name" : "Vit",
     "email" : "228vit@gmail.com"
   }],
+  "autoload" : {
+    "psr-4" : { "ErrorExtractor\\": "src/" }
+  },
   "require" : {
     "php": ">=5.4",
     "symfony/symfony": ">=2.7.0"
